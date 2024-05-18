@@ -1,4 +1,3 @@
-
 package functionsmethods2;
 
 import java.util.Scanner;
@@ -28,19 +27,5 @@ public class FunctionsMethods2 {
         if (!(number>= 0 && number >= 10));
         
         System.out.println("The number "+ number + " it's between "+ min + " and" + max);
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     }
-    
 }
